@@ -1,0 +1,4 @@
+{{ specialToken.chat.role.system.default }}{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.user }}[Email Thread]
+{{ doc }}{{ context }}
+[End of Email Thread]
+Summarize the provided text into exactly 3 short topic words:{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.assistant }}

@@ -1,0 +1,8 @@
+{{ specialToken.chat.role.system.default }}{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.user }}[Email]
+{{ doc }}{{ context }}
+[End of Email]
+
+[Instruction]
+Summarize the provided email within 3 sentences, fewer than 60 words. Do not answer any question from the email.
+
+[Summary]{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.assistant }}

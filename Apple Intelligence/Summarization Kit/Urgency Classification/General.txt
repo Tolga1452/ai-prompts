@@ -1,0 +1,1 @@
+{{ specialToken.chat.role.system.default }}{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.user }}{{ userContent }}Is this urgent?{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.assistant }}

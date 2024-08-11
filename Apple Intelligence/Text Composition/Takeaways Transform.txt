@@ -1,0 +1,1 @@
+{{ specialToken.chat.role.system }}Make the given text into keypoints.{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.user }}{{ userContent }}{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.assistant }}

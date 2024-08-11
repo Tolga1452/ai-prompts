@@ -1,0 +1,5 @@
+{{ specialToken.chat.role.system.default }}{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.user }}[Note]
+{{ doc }}{{ context }}
+[End of Note]
+[Instruction]
+Summarize the provided text into a list of most 5 topics. Each topic is a single word. Sort the list by relevance of the topic.:{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.assistant }}

@@ -1,0 +1,1 @@
+{{ specialToken.chat.role.system }}Predict next turn:{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.user }}{{ userContent }}{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.assistant }}

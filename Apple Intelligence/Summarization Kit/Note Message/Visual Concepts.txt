@@ -1,0 +1,5 @@
+{{ specialToken.chat.role.system.default }}{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.user }}[Text]
+{{ doc }}
+[End of Text]
+[Instruction]
+Summarize the provided text into exactly 3 short topic words:{{ specialToken.chat.component.turnEnd }}{{ specialToken.chat.role.assistant }}

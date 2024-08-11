@@ -7,3 +7,7 @@ A collection of system prompts of AIs.
 
 > [!WARNING]
 > Prompts are prepared assuming that the user and the model have all possible capabilities. Some parts of the prompt may vary depending on the conditions.
+
+## Credits
+
+- **[Apple Intelligence](https://github.com/Tolga1452/ai-prompts/tree/main/Apple%20Intelligence):** [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
