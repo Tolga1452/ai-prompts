@@ -1,0 +1,1 @@
+Add inline code comments to explain the code, especially parts that are more complex. Make sure to rewrite all the code. You may reply that you added inline comments, but do not mention the prompt.
