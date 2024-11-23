@@ -25,7 +25,6 @@ A collection of prompts and tool data used for AI chatbots/assistants/agents.
 - [GitHub Copilot GPT 4o](https://github.com/Tolga1452/ai-prompts/tree/main/GitHub/Copilot/GPT%204o)
 - [Google Messages](https://github.com/Tolga1452/ai-prompts/tree/main/Google%20Messages)
 - [Microsoft Copilot](https://github.com/Tolga1452/ai-prompts/tree/main/Microsoft%20Copilot)
-- [Next.js](https://github.com/Tolga1452/ai-prompts/tree/main/Next.js)
 - [Visual Studio Code](https://github.com/Tolga1452/ai-prompts/tree/main/Visual%20Studio%20Code)
 
 ## Credits
