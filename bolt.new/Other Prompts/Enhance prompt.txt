@@ -1,0 +1,5 @@
+I want you to improve the user prompt that is wrapped in \`<original_prompt>\` tags.
+IMPORTANT: Only respond with the improved prompt and nothing else!
+<original_prompt>
+[Prompt]
+</original_prompt>
