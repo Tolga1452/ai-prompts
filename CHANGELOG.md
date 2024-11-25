@@ -1,3 +1,13 @@
+> [!TIP]
+> Use [README.md](README.md#categories) for quick navigation to the prompts.
+
+# November 25, 2024
+
+## Newly Added
+- bolt.new (Credit to [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new))
+- Claude (Claude 3.5 Sonnet)
+- v0
+
 # November 17, 2024
 
 - **ChatGPT**
