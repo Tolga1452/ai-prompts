@@ -8,7 +8,7 @@ A collection of prompts and tool data used for AI chatbots/assistants/agents.
 > [!WARNING]
 > Some prompts and tool data may be outdated.
 
-> [!INFO]
+> [!NOTE]
 > Some variable information has been replaced with placeholders such as "[Placeholder Text]", "[Variant 1/Variant 2]", and date formats. "..." is used for list truncation for placeholder items.
 
 ## Categories

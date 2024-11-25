@@ -4,7 +4,7 @@
 # November 25, 2024
 
 ## Newly Added
-- bolt.new (Credit to [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
+- bolt.new (Credit to [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new))
 - Claude (Claude 3.5 Sonnet)
 - v0
 
