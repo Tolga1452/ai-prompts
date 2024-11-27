@@ -34,9 +34,11 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 - [Microsoft Copilot](https://github.com/Tolga1452/ai-prompts/tree/main/Microsoft%20Copilot)
 - [v0](https://github.com/Tolga1452/ai-prompts/tree/main/v0)
 - [Visual Studio Code](https://github.com/Tolga1452/ai-prompts/tree/main/Visual%20Studio%20Code)
+- [Bluesky Bot](https://github.com/Tolga1452/ai-prompts/tree/main/Bluesky%20Bot)
 
 ## Credits
 
 - **Apple Intelligence:** [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
 - **bolt.new:** [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
 - **Microsoft Copilot:** [wunderwuzzi23/scratch](https://github.com/wunderwuzzi23/scratch)
+- **RuttoniSky:** [lu2000luk/RuttoniSky](https://github.com/lu2000luk/RuttoniSky)
