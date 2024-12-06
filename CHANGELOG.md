@@ -7,7 +7,7 @@
 - ChatGPT
   - ChatGPT o1
   - ChatGPT o1-mini
-- val town (townie)
+- val town (Townie)
 
 # November 25, 2024
 
