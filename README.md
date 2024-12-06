@@ -20,6 +20,8 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
   - [ChatGPT 4o](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%204o)
   - [ChatGPT 4o mini](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%204o%20mini)
   - [ChatGPT 4o with canvas](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%204o%20with%20canvas)
+  - [ChatGPT o1](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%20o1)
+  - [ChatGPT o1-mini](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%20o1-mini)
   - [Custom GPT](https://github.com/Tolga1452/ai-prompts/tree/main/Custom%20GPT)
   - [GPT Builder](https://github.com/Tolga1452/ai-prompts/tree/main/GPT%20Builder)
 - [bolt.new](https://github.com/Tolga1452/ai-prompts/tree/main/bolt.new)
@@ -33,7 +35,8 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 - [Google Messages](https://github.com/Tolga1452/ai-prompts/tree/main/Google%20Messages)
 - [Microsoft Copilot](https://github.com/Tolga1452/ai-prompts/tree/main/Microsoft%20Copilot)
 - [v0](https://github.com/Tolga1452/ai-prompts/tree/main/v0)
-- [Visual Studio Code](https://github.com/Tolga1452/ai-prompts/tree/main/Visual%20Studio%20Code)
+- [val town (Townie)](https://github.com/Tolga1452/ai-prompts/tree/main/val%20town/Townie)
+- [Visual Studio Code (GitHub Copilot)](https://github.com/Tolga1452/ai-prompts/tree/main/Visual%20Studio%20Code/GitHub%20Copilot)
 
 ## Credits
 

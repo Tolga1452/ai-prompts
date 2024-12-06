@@ -1,6 +1,14 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# December 6, 2024
+
+## Newly Added
+- ChatGPT
+  - ChatGPT o1
+  - ChatGPT o1-mini
+- val town (townie)
+
 # November 25, 2024
 
 ## Newly Added
