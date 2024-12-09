@@ -37,6 +37,9 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 - [v0](https://github.com/Tolga1452/ai-prompts/tree/main/v0)
 - [val town (Townie)](https://github.com/Tolga1452/ai-prompts/tree/main/val%20town/Townie)
 - [Visual Studio Code (GitHub Copilot)](https://github.com/Tolga1452/ai-prompts/tree/main/Visual%20Studio%20Code/GitHub%20Copilot)
+- [X](https://github.com/Tolga1452/ai-prompts/tree/main/X)
+  - [Grok 2 + FLUX](https://github.com/Tolga1452/ai-prompts/tree/main/Grok%202%20+%20FLUX)
+  - [Grok 2 + FLUX Fun](https://github.com/Tolga1452/ai-prompts/tree/main/Grok%202%20+%20FLUX%20Fun)
 
 ## Credits
 

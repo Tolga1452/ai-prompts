@@ -1,6 +1,13 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# December 9, 2024
+
+## Newly Added
+- X
+  - Grok 2 + FLUX
+  - Grok 2 + FLUX Fun
+
 # December 6, 2024
 
 ## Newly Added
