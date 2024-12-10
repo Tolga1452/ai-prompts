@@ -1,6 +1,31 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# December 10, 2024
+
+## Newly Added
+- X
+  - Grok 2
+  - Grok 2 Fun
+
+## Updated
+- ChatGPT
+  - Canvas
+    - Updated the canvas prompts.
+    - Moved canvas prompts from "ChatGPT 4o with canvas" to this folder since they are not specific to that model.
+  - ChatGPT 4o: Canvas Update
+    - Updated system prompts.
+    - Updated tool data and fixed some wrong parts.
+  - ChatGPT 4o with canvas
+    - Updated system prompts.
+    - Updated tool data and fixed some wrong parts.
+  - Custom GPT: Canvas Update
+    - Updated system prompts.
+    - Updated tool data and fixed some wrong parts.
+  - GPT Builder
+    - Updated system prompts.
+    - Updated tool data and fixed some wrong parts.
+
 # December 9, 2024
 
 ## Newly Added
