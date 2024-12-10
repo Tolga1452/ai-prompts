@@ -5,5 +5,5 @@
  */
 
 interface WebSearchInput {
-    query: string; // The search query to be executed.
+    query: string; // The search query to issue to the search engine.
 };

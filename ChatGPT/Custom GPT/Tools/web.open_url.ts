@@ -1,7 +1,7 @@
 /**
  * Tool: web.open_url
  * 
- * Description: Open a specific URL and display its contents or interact with it.
+ * Description: Opens the given URL and displays it.
  */
 
 interface WebOpenUrlInput {

@@ -2,8 +2,6 @@
  * Tool: dalle.text2im
  * 
  * Description: Create images from a text-only prompt.
- * 
- * Input:
  */
 
 interface Text2ImageInput {
@@ -12,7 +10,3 @@ interface Text2ImageInput {
     prompt: string; // The detailed image description to generate the image.
     referenced_image_ids?: string[]; // If the user references a previous image, this field should be populated with the gen_id from the dalle image metadata.
 };
-
-// Output:
-
-type Text2ImageOutput = void;
