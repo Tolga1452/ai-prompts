@@ -16,6 +16,9 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 ## Categories
 
 - [Apple Intelligence](https://github.com/Tolga1452/ai-prompts/tree/main/Apple%20Intelligence)
+- [bolt.new](https://github.com/Tolga1452/ai-prompts/tree/main/bolt.new)
+- [ChatGPT](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT)
+  - [Canvas](https://github.com/Tolga1452/ai-prompts/tree/main/Canvas)
   - [ChatGPT 4](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%204)
   - [ChatGPT 4o](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%204o)
   - [ChatGPT 4o mini](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%204o%20mini)
@@ -24,8 +27,6 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
   - [ChatGPT o1-mini](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT%20o1-mini)
   - [Custom GPT](https://github.com/Tolga1452/ai-prompts/tree/main/Custom%20GPT)
   - [GPT Builder](https://github.com/Tolga1452/ai-prompts/tree/main/GPT%20Builder)
-- [bolt.new](https://github.com/Tolga1452/ai-prompts/tree/main/bolt.new)
-- [ChatGPT](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT)
 - [Claude (Claude 3.5 Sonnet)](https://github.com/Tolga1452/ai-prompts/tree/main/Claude/Claude%203.5%20Sonnet)
 - [DeftGPT](https://github.com/Tolga1452/ai-prompts/tree/main/DeftGPT)
 - [Discord](https://github.com/Tolga1452/ai-prompts/tree/main/Discord)
@@ -38,8 +39,10 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 - [val town (Townie)](https://github.com/Tolga1452/ai-prompts/tree/main/val%20town/Townie)
 - [Visual Studio Code (GitHub Copilot)](https://github.com/Tolga1452/ai-prompts/tree/main/Visual%20Studio%20Code/GitHub%20Copilot)
 - [X](https://github.com/Tolga1452/ai-prompts/tree/main/X)
+  - [Grok 2](https://github.com/Tolga1452/ai-prompts/tree/main/X/Grok%202)
   - [Grok 2 + FLUX](https://github.com/Tolga1452/ai-prompts/tree/main/X/Grok%202%20+%20FLUX)
   - [Grok 2 + FLUX Fun](https://github.com/Tolga1452/ai-prompts/tree/main/X/Grok%202%20+%20FLUX%20Fun)
+  - [Grok 2 Fun](https://github.com/Tolga1452/ai-prompts/tree/main/X/Grok%202%20Fun)
 
 ## Credits
 
