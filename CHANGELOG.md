@@ -10,7 +10,8 @@
 
 ## Updated
 - ChatGPT
-  - ChatGPT 4o: Updated system prompts.
+  - ChatGPT 4o: Projects Update
+    - Updated system prompts.
 
 # December 10, 2024
 
