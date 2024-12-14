@@ -27,6 +27,8 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
   - [ChatGPT o1-mini](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%20o1-mini)
   - [Custom GPT](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/Custom%20GPT)
   - [GPT Builder](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/GPT%20Builder)
+  - [Policies](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/Policies)
+  - [Project](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/Project)
 - [Claude (Claude 3.5 Sonnet)](https://github.com/Tolga1452/ai-prompts/tree/main/Claude/Claude%203.5%20Sonnet)
 - [DeftGPT](https://github.com/Tolga1452/ai-prompts/tree/main/DeftGPT)
 - [Discord](https://github.com/Tolga1452/ai-prompts/tree/main/Discord)

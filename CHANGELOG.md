@@ -1,6 +1,17 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# December 14, 2024
+
+## Newly Added
+- ChatGPT
+  - Policies: This folder contains the policy prompts used for the `guardian_tool.get_policy` tool, which is found in project chats.
+  - Project
+
+## Updated
+- ChatGPT
+  - ChatGPT 4o: Updated system prompts.
+
 # December 10, 2024
 
 ## Newly Added
