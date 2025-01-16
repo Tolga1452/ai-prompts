@@ -1,6 +1,24 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# 16 January, 2025
+
+## Newly Added
+- ChatGPT
+  - ChatGPT 4o: New Custom Instructions (It was unstable and rolled back from the app)
+  - ChatGPT Tasks
+  - Task: The prompts and specific tools used for tasks.
+- Lovable
+
+## Updated
+- GitHub Copilot (GPT 4o)
+  - Updated system prompts.
+- X
+  - Grok 2
+
+## Repository Updates
+- Updated categories in `README.md` and added some useful label.
+
 # December 14, 2024
 
 ## Newly Added
