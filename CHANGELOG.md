@@ -17,7 +17,7 @@
   - Grok 2
 
 ## Repository Updates
-- Updated categories in `README.md` and added some useful label.
+- Updated categories in `README.md` and added some useful labels.
 
 # December 14, 2024
 
