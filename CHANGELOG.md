@@ -1,7 +1,7 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
-# 16 January, 2025
+# January 16, 2025
 
 ## Newly Added
 - ChatGPT
