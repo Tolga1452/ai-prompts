@@ -1,6 +1,21 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# January 28, 2025
+
+## Newly Added
+- Gemini
+  - Gemini 1.5 Flash
+  - Gemini 1.5 Pro with Deep Research
+  - Gemini 1.5 Pro
+  - Gemini 2.0 Flash Experimental
+- Visual Studio Code: This category got a huge remake.
+  - Added Copilot Edits with Agent and Edit sub-categories. Agent contains tool data too.
+  - Updated GitHub Copilot with new Claude 3.5 Sonnet (Preview) prompt and sub-category Extensions.
+
+## Updated
+- Google Messages (Gemini): Updated system prompts.
+
 # January 16, 2025
 
 ## Newly Added
