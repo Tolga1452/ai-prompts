@@ -12,7 +12,7 @@
   - Gemini 2.0 Flash Experimental
 - Visual Studio Code: This category got a huge remake.
   - Added Copilot Edits with Agent and Edit sub-categories. Agent contains tool data too.
-  - Updated GitHub Copilot with new Claude 3.5 Sonnet (Preview) prompt and sub-category Extensions.
+  - Updated GitHub Copilot with new Claude 3.5 Sonnet (Preview) prompt and Extensions sub-category.
 
 ## Updated
 - Google Messages (Gemini): Updated system prompts.
