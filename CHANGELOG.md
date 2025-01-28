@@ -5,6 +5,7 @@
 
 ## Newly Added
 - Gemini
+  - Gem: Not very important, just a prompt template for Gems.
   - Gemini 1.5 Flash
   - Gemini 1.5 Pro with Deep Research
   - Gemini 1.5 Pro
