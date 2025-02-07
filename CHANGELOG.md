@@ -1,6 +1,21 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# February 7, 2025
+
+## Newly Added
+- ChatGPT
+  - Chain-of-Thought (OpenAI o3): Prompts for the new CoT summarizer used for the OpenAI o3 models. (Credit to [@btibor91](https://x.com/btibor91/status/1887762005181763888))
+- Gemini
+  - Gemini 2.0 Flash Thinking Experimental with apps **(The full prompt isn't available, PRs are welcome.)**
+  - Gemini 2.0 Flash Thinking Experimental
+  - Gemini 2.0 Flash
+  - Gemini 2.0 Pro Experimental
+
+## Updated
+- ChatGPT
+  - ChatGPT 4o: Updated system prompts.
+
 # January 28, 2025
 
 ## Newly Added
