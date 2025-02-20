@@ -1,6 +1,26 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# February 20, 2025
+Tool data is ignored in this update because they will be re-organized in the future.
+
+## Newly Added
+- ChatGPT
+  - ChatGPT o3-mini
+  - ChatGPT o3-mini-high
+- GitHub Copilot
+  - Claude 3.5 Sonnet
+  - Gemini 2.0 Flash
+- Grok
+  - Grok 2
+  - Grok 3
+- X
+  - Grok 3
+
+## Updated
+- X
+  - Grok 2: Updated system prompts.
+
 # February 7, 2025
 
 ## Newly Added
