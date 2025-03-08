@@ -1,11 +1,11 @@
 # AI Prompts
 
-A collection of system prompts and tool data used for AI chatbots.
+A collection of original system prompts and tool data used for AI chatbots.
 
 See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 
 > [!WARNING]
-> Most of the prompts and tool data are extracted directly from AIs. They are not guaranteed to be fully accurate.
+> Most of the prompts and tool data are extracted directly from the chatbots. They are not guaranteed to be fully accurate.
 
 > [!WARNING]
 > Some prompts and tool data may be outdated.
