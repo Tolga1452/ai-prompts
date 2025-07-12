@@ -1,0 +1,162 @@
+[
+    {
+        "name": "DATE",
+        "format": "YYYY-MM-DD"
+    },
+    {
+        "name": "PREFERRED_NAME",
+        "description": "The input given by user to the question 'What should ChatGPT call you?' in the Customize ChatGPT tab."
+    },
+    {
+        "name": "ROLE",
+        "description": "The input given by user to the question 'What do you do?' in the Customize ChatGPT tab."
+    },
+    {
+        "name": "OTHER_INFORMATION",
+        "description": "The input given by user to the question 'Anything else ChatGPT should know about you?' in the Customize ChatGPT tab."
+    },
+    {
+        "name": "USER_INSTRUCTIONS",
+        "description": "The input given by user to the question 'What traits should ChatGPT have?' in the Customize ChatGPT tab."
+    },
+    {
+        "name": "MEMORY",
+        "description": "The memory content saved by ChatGPT."
+    },
+    {
+        "name": "ASSISTANT_RESPONSE_PREFERENCE_TITLE",
+        "description": "The title for the assistant's response preferences."
+    },
+    {
+        "name": "CHATGPT_NOTE",
+        "description": "Content of the notes that ChatGPT took based on the user's past conversations."
+    },
+    {
+        "name": "CONFIDENCE",
+        "values": [
+            "low",
+            "medium",
+            "high"
+        ]
+    },
+    {
+        "name": "TIMEZONE",
+        "format": "±HHMM"
+    },
+    {
+        "name": "CONVERSATION_DATE",
+        "format": "MMDDTHH:MM"
+    },
+    {
+        "name": "CONVERSATION_TITLE",
+        "description": "The title of the conversation."
+    },
+    {
+        "name": "USER_MESSAGE",
+        "description": "Content of the message sent by the user."
+    },
+    {
+        "name": "DIMENSIONS",
+        "format": "WIDTHxHEIGHT"
+    },
+    {
+        "name": "THEME",
+        "values": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "name": "FLOAT",
+        "format": "0.0"
+    },
+    {
+        "name": "PLATFORM_TYPE",
+        "values": [
+            "native app",
+            "web browser"
+        ]
+    },
+    {
+        "name": "DEVICE_TYPE",
+        "values": [
+            "desktop computer",
+            "Android device",
+            "iOS device"
+        ]
+    },
+    {
+        "name": "USER_AGENT",
+        "description": "The user agent that the user uses."
+    },
+    {
+        "name": "COUNTRY",
+        "description": "The country of the user based on the IP address."
+    },
+    {
+        "name": "PLAN_TYPE",
+        "values": [
+            "Free",
+            "Plus",
+            "Pro",
+            "Team",
+            "Enterprise",
+            "Edu"
+        ]
+    },
+    {
+        "name": "NUMBER",
+        "format": "0"
+    },
+    {
+        "name": "PERCENTAGE",
+        "format": "0%"
+    },
+    {
+        "name": "TOPIC",
+        "description": "The topic tag that ChatGPT assigns to the user's messages."
+    },
+    {
+        "name": "HOUR",
+        "format": "HH"
+    },
+    {
+        "name": "MODEL",
+        "description": "The ID of the model that is used."
+    },
+    {
+        "name": "ACCOUNT_NAME",
+        "description": "The name associated with the user's account."
+    },
+    {
+        "name": "PROJECT_INSTRUCTIONS",
+        "description": "Instructions set by the user for the project."
+    },
+    {
+        "name": "CUSTOM_GPT_INSTRUCTIONS",
+        "description": "Instructions set by the custom GPT's creator."
+    },
+    {
+        "name": "DATE_AND_TIME",
+        "format": "dddd, YYYY-MM-DD HH:mm:ss Z"
+    },
+    {
+        "name": "TASK_TITLE",
+        "description": "The title of the task."
+    },
+    {
+        "name": "TASK_SCHEDULE",
+        "description": "The schedule for the task in iCalendar format."
+    },
+    {
+        "name": "TIMEZONE_AREA",
+        "description": "The area of the timezone."
+    },
+    {
+        "name": "TOGGLE",
+        "values": [
+            "True",
+            "False"
+        ]
+    }
+]

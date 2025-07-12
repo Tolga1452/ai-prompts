@@ -1,0 +1,15 @@
+[
+    "bio",
+    "python",
+    "python_user_visible",
+    "web.run",
+    "guardian_tool",
+    "image_gen.text2im",
+    "canmore.create_textdoc",
+    "canmore.update_textdoc",
+    "canmore.comment_textdoc",
+    "file_search.msearch",
+    "user_info.get_user_info",
+    "automations.create",
+    "automations.update"
+]

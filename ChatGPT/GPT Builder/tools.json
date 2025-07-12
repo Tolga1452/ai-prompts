@@ -1,0 +1,11 @@
+[
+    "web.search",
+    "web.open_url",
+    "canmore.create_textdoc",
+    "canmore.update_textdoc",
+    "canmore.comment_textdoc",
+    "image_gen.text2im",
+    "python",
+    "gizmo_editor.generate_profile_pic",
+    "gizmo_editor.update_behavior"
+]

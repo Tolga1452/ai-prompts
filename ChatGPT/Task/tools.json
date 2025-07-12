@@ -1,0 +1,8 @@
+[
+    "web.search",
+    "web.open_url",
+    "dalle.text2im",
+    "canmore.create_textdoc",
+    "canmore.update_textdoc",
+    "canmore.comment_textdoc"
+]

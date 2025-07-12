@@ -1,0 +1,10 @@
+[
+    "bio",
+    "canmore.create_textdoc",
+    "canmore.update_textdoc",
+    "canmore.comment_textdoc",
+    "python",
+    "image_gen_redirect",
+    "web.search",
+    "web.open_url"
+]

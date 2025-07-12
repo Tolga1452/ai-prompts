@@ -1,0 +1,12 @@
+[
+    "bio",
+    "canmore.create_textdoc",
+    "canmore.update_textdoc",
+    "canmore.comment_textdoc",
+    "file_search.msearch",
+    "python",
+    "guardian_tool.get_policy",
+    "image_gen.text2im",
+    "web.search",
+    "web.open_url"
+]
