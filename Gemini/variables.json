@@ -1,0 +1,22 @@
+[
+    {
+        "name": "DATE",
+        "format": "YYYY-MM-DD"
+    },
+    {
+        "name": "SAVED_INFO",
+        "description": "The information saved by Gemini or the user that should be remembered across conversations."
+    },
+    {
+        "name": "FULL_DATE",
+        "format": "dddd, MMMM D, YYYY"
+    },
+    {
+        "name": "FULL_TIME",
+        "format": "h:mm:ss A z"
+    },
+    {
+        "name": "LOCATION",
+        "format": "City, State, Country"
+    }
+]
