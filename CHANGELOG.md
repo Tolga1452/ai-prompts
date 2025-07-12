@@ -1,6 +1,40 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# July 12, 2025
+
+## Repository Updates
+- Variables aren't directly added to prompts anymore. Instead, they'll be listed in the `variables.json`. All variables added after this update will use the `{{VARIABLE_NAME}}` format.
+- Continuous lists are now shown as `{{ContinuousList}}`. For example `{{MODEL}}, {{MODEL}}, {{ContinuousList}}` means `{{MODEL}}, {{MODEL}}, {{MODEL}}, {{MODEL}}, ...`.
+- Since tool data are common, they all are now under the `Tools` folder in the root directory of the platform folder. To see what tools are used in specific cases, there is a `tools.json` file which contains the list of the tools used along with the prompt.
+
+## Newly Added
+- ChatGPT
+  - ChatGPT 4.1
+  - ChatGPT 4.1-mini
+  - ChatGPT 4.5
+  - ChatGPT o3 (Credit to [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks))
+- Gemini
+  - Canvas **(The full prompt isn't available)**
+  - Deep Research
+  - Gemini 2.5 Flash
+  - Gemini 2.5 Pro
+
+## Updated
+- bolt.new (Credit to [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new))
+- ChatGPT
+  - ChatGPT 4o
+  - Custom GPT
+  - GPT Builder
+  - Policies
+  - Project
+  - Task
+  - Tools
+- Grok
+  - Grok 3
+- X
+  - Grok 3
+
 # February 20, 2025
 Tool data is ignored in this update because they will be re-organized in the future.
 
