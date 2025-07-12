@@ -1,0 +1,14 @@
+[
+    {
+        "name": "FULL_DATE",
+        "format": "dddd, MMMM DD, YYYY"
+    },
+    {
+        "name": "USER_PREFERENCES",
+        "description": "The user-filled answer of 'What personal preferences should Claude consider in responses?' in Claude Profile settings."
+    },
+    {
+        "name": "LOCATION",
+        "format": "City, State, Country Code"
+    }
+]
