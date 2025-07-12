@@ -1,0 +1,18 @@
+[
+    {
+        "name": "CUSTOM_PERSONALITY",
+        "description": "The custom instructions set by user in the Customize tab in settings."
+    },
+    {
+        "name": "DATE",
+        "format": "MMMM d, yyyy"
+    },
+    {
+        "name": "TIME",
+        "format": "hh:mm a z"
+    },
+    {
+        "name": "FULL_DATE",
+        "format": "EEEE, MMMM d, yyyy"
+    }
+]
