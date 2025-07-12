@@ -1,0 +1,14 @@
+[
+    {
+        "name": "DATE",
+        "format": "MMMM d, yyyy"
+    },
+    {
+        "name": "TIME",
+        "format": "hh:mm a z"
+    },
+    {
+        "name": "FULL_DATE",
+        "format": "EEEE, MMMM d, yyyy"
+    }
+]
