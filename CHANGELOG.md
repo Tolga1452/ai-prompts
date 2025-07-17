@@ -14,6 +14,8 @@
   - ChatGPT 4.1-mini
   - ChatGPT 4.5
   - ChatGPT o3 (Credit to [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks))
+- Claude
+  - Claude Sonnet 4
 - Gemini
   - Canvas **(The full prompt isn't available)**
   - Deep Research

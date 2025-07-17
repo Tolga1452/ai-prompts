@@ -45,6 +45,7 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
   - ✨ [Tools](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/Tools)
 - [Claude](https://github.com/Tolga1452/ai-prompts/tree/main/Claude)
   - 🪦 [Claude 3.5 Sonnet](https://github.com/Tolga1452/ai-prompts/tree/main/Claude/Claude%203.5%20Sonnet)
+  - 🆕 [Claude Sonnet 4](https://github.com/Tolga1452/ai-prompts/tree/main/Claude/Claude%20Sonnet%204)
 - [DeftGPT](https://github.com/Tolga1452/ai-prompts/tree/main/DeftGPT)
 - 🪦 [Discord (Clyde)](https://github.com/Tolga1452/ai-prompts/tree/main/Discord/Clyde.txt)
 - [Discord Bot](https://github.com/Tolga1452/ai-prompts/tree/main/Discord%20Bot)
