@@ -8,7 +8,7 @@
   - Agent
 - Grok
   - Personas
-    - "Therapist",
+    - "Therapist"
     - Companion
     - Grok "Doc"
     - Homework Helper
