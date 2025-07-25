@@ -14,5 +14,9 @@
     {
         "name": "FULL_DATE",
         "format": "EEEE, MMMM d, yyyy"
+    },
+    {
+        "name": "FULL_NAME",
+        "description": "The full name of the user that is set in the Account settings."
     }
 ]

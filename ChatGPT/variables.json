@@ -158,5 +158,13 @@
             "True",
             "False"
         ]
+    },
+    {
+        "name": "VERBOSE_DATE",
+        "format": "Do MMMM, YYYY"
+    },
+    {
+        "name": "LOCATION",
+        "format": "City, State, Country"
     }
 ]

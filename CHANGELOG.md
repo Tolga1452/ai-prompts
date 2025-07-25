@@ -1,6 +1,26 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# July 25, 2025
+
+## Newly Added
+- ChatGPT
+  - Agent
+- Grok
+  - Personas
+    - "Therapist",
+    - Companion
+    - Grok "Doc"
+    - Homework Helper
+    - Loyal Friend
+    - Unhinged Comedian
+  - Voice
+    - Ara
+    - Eve
+    - Gork
+    - Rex
+    - Sal
+
 # July 12, 2025
 
 ## Repository Updates

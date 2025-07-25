@@ -1,0 +1,15 @@
+[
+    "browser.search",
+    "browser.open",
+    "browser.find",
+    "computer.initialize",
+    "computer.get",
+    "computer.sync_file",
+    "computer.switch_app",
+    "computer.do",
+    "container.feed_chars",
+    "container.exec",
+    "container.open_image",
+    "imagegen.make_image",
+    "memento"
+]
