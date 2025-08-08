@@ -1,0 +1,14 @@
+[
+    "bio",
+    "automations.create",
+    "automations.update",
+    "canmore.create_textdoc",
+    "canmore.update_textdoc",
+    "canmore.comment_textdoc",
+    "file_search.msearch",
+    "file_search.mclick",
+    "image_gen.text2im",
+    "python",
+    "web.search",
+    "web.open_url"
+]

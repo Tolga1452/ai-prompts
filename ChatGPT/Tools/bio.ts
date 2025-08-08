@@ -5,5 +5,5 @@
  */
 
 interface BioTool {
-    input: string; // Information you want to persist across conversations.
+    // No input parameters specified; content is plain text provided directly.
 };
