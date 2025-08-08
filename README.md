@@ -126,4 +126,5 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 - **ChatGPT**
   - **Chain-of-Thought (OpenAI o3):** [@btibor91](https://x.com/btibor91/status/1887762005181763888)
   - **ChatGPT o3:** [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- **Wamellow:** [wamellow.com](https://wamellow.com)
 - **Microsoft Copilot:** [wunderwuzzi23/scratch](https://github.com/wunderwuzzi23/scratch)
