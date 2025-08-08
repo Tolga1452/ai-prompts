@@ -1,6 +1,21 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# July 8, 2025
+
+## Newly Added
+- ChatGPT
+  - ChatGPT 5
+  - Retry with
+  - Study
+  - Tools
+    - file_search.mclick
+
+## Updated
+- ChatGPT
+  - Tools
+    - bio
+
 # July 25, 2025
 
 ## Newly Added
