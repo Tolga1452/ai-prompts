@@ -1,6 +1,10 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# TBA
+- Discord Bot
+  - Wamellow (Credit to [Wamellow](https://wamellow.com))
+
 # July 8, 2025
 
 ## Newly Added

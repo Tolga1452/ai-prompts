@@ -55,6 +55,7 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 - [Discord Bot](https://github.com/Tolga1452/ai-prompts/tree/main/Discord%20Bot)
   - 🪦 [Elysium](https://github.com/Tolga1452/ai-prompts/tree/main/Discord%20Bot/Elysium.txt)
   - [MEE6](https://github.com/Tolga1452/ai-prompts/tree/main/Discord%20Bot/MEE6.txt)
+  - 🆕 [Wamellow](https://github.com/Tolga1452/ai-prompts/tree/main/Discord%20Bot/Wamellow.txt)
 - [Gemini](https://github.com/Tolga1452/ai-prompts/tree/main/Gemini)
   - [Canvas](https://github.com/Tolga1452/ai-prompts/tree/main/Gemini/Canvas.txt) **(The full prompt isn't available)**
   - [Deep Research](https://github.com/Tolga1452/ai-prompts/tree/main/Gemini/Deep%20Research.txt)
