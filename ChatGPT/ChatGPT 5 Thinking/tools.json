@@ -1,0 +1,22 @@
+[
+    "python.exec",
+    "web.run",
+    "automations.create",
+    "automations.update",
+    "file_search.msearch",
+    "file_search.mclick",
+    "gcal.read_event",
+    "gcal.search_events",
+    "gcontacts.search_contacts",
+    "canmore.create_textdoc",
+    "canmore.update_textdoc",
+    "canmore.comment_textdoc",
+    "python_user_visible.exec",
+    "user_info.get_user_info",
+    "summary_reader.read",
+    "container.feed_chars",
+    "container.exec",
+    "container.open_image",
+    "bio.update",
+    "image_gen.text2im"
+]
