@@ -5,7 +5,7 @@
 
 ## Newly Added
 - ChatGPT
-  - ChatGPT Fast
+  - ChatGPT 5 Fast
   - ChatGPT 5 Thinking (Credit to [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts))
   - ChatGPT 5 Thinking mini **(Tool data only)**
   - Personalities
