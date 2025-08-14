@@ -14,7 +14,7 @@
     - Nerd
     - Robot
 - Discord Bot
-  - Wamellow (Credit to [Wamellow](https://wamellow.com))
+  - Wamellow (Credit to [wamellow.com](https://wamellow.com))
 - GitHub **(Got a full rework)**
   - Copilot
     - Home
