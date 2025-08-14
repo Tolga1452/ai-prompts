@@ -1,0 +1,13 @@
+[
+    "functions.githubread",
+    "functions.githubwrite",
+    "functions.bing-search",
+    "functions.lexical-code-search",
+    "functions.semantic-code-search",
+    "functions.github-draft-issue",
+    "functions.github-coding-agent",
+    "functions.support-search",
+    "functions.get_me",
+    "functions.search_users",
+    "multi_tool_use.parallel"
+]

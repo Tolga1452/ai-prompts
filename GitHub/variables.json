@@ -1,0 +1,22 @@
+[
+    {
+        "name": "DATE",
+        "format": "YYYY-MM-DD"
+    },
+    {
+        "name": "TIME",
+        "format": "HH:MM:SS"
+    },
+    {
+        "name": "LOGIN",
+        "description": "Current user's GitHub username."
+    },
+    {
+        "name": "PERSONAL_INSTRUCTIONS",
+        "description": "The personal instructions prompt that is set by the user."
+    },
+    {
+        "name": "GENERAL_INSTRUCTIONS",
+        "description": "The instructions prompt of the Space that is set by the user."
+    }
+]
