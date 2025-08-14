@@ -1,9 +1,35 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
-# TBA
+# August 14, 2025
+
+## Newly Added
+- ChatGPT
+  - ChatGPT Fast
+  - ChatGPT 5 Thinking (Credit to [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts))
+  - ChatGPT 5 Thinking mini **(Tool data only)**
+  - Personalities
+    - Cynic
+    - Listener
+    - Nerd
+    - Robot
 - Discord Bot
   - Wamellow (Credit to [Wamellow](https://wamellow.com))
+- GitHub **(Got a full rework)**
+  - Copilot
+    - Home
+    - Spaces
+- Grok
+  - Auto
+  - Expert
+  - Fast
+- X
+  - Expert
+  - Fast
+
+## Updated
+- ChatGPT
+  - ChatGPT 5
 
 # July 8, 2025
 
