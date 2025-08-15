@@ -170,5 +170,9 @@
     {
         "name": "FEEDBACK",
         "description": "The custom revision feedback provided by the user on a message."
+    },
+    {
+        "name": "CURRENT_DATE",
+        "format": "MMMM D, YYYY"
     }
 ]
