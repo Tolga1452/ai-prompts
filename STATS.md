@@ -1,6 +1,6 @@
 # Prompt Stats
 
-**Generated:** 2025-08-15T12:50:27.781Z
+**Generated:** 2025-08-15T12:59:19.397Z
 
 ## Summary
 
@@ -108,8 +108,8 @@ pie title Top Categories by Characters
 + GitHub/Copilot/Spaces/prompt.txt                             | █████████ 16,076 chars
   Visual Studio Code/GitHub Copilot/Chat/Extensions/github.txt | █████████ 16,013 chars
   ChatGPT/GPT Builder/prompt.txt                               | ████████ 14,407 chars
-+ Grok/Expert/prompt.txt                                       | ████████ 13,753 chars
-+ X/Expert/prompt.txt                                          | ████████ 13,472 chars
+  Grok/Expert/prompt.txt                                       | ████████ 13,753 chars
+  X/Expert/prompt.txt                                          | ████████ 13,472 chars
   bolt.new/prompt.txt                                          | ████████ 13,403 chars
   ChatGPT/ChatGPT Tasks/prompt.txt                             | ███████ 12,365 chars
   ChatGPT/Project/prompt.txt                                   | ███████ 12,211 chars
@@ -145,7 +145,7 @@ pie title Top Categories by Characters
   ChatGPT/ChatGPT 4.5/prompt.txt                               | ████████ 224 lines
   ChatGPT/ChatGPT Tasks/prompt.txt                             | ███████ 208 lines
   ChatGPT/GPT Builder/prompt.txt                               | ███████ 193 lines
-+ Grok/Expert/prompt.txt                                       | ██████ 186 lines
+  Grok/Expert/prompt.txt                                       | ██████ 186 lines
 ```
 
 ---
@@ -173,8 +173,8 @@ pie title Top Categories by Characters
 | 17 | [GitHub/Copilot/Spaces/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/GitHub/Copilot/Spaces/prompt.txt) | GitHub | 16,076 | 247 |
 | 18 | [Visual Studio Code/GitHub Copilot/Chat/Extensions/github.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Visual%20Studio%20Code/GitHub%20Copilot/Chat/Extensions/github.txt) | Visual Studio Code | 16,013 | 244 |
 | 19 | [ChatGPT/GPT Builder/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/GPT%20Builder/prompt.txt) | ChatGPT | 14,407 | 193 |
-| 20 | [Grok/Expert/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Expert/prompt.txt) | Grok | 13,753 | 186 |
-| 21 | [X/Expert/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/X/Expert/prompt.txt) | X | 13,472 | 182 |
+| 20 | [Grok/Expert/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Expert/prompt.txt) | Grok | 13,753 | 186 |
+| 21 | [X/Expert/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/X/Expert/prompt.txt) | X | 13,472 | 182 |
 | 22 | [bolt.new/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/bolt.new/prompt.txt) | bolt.new | 13,403 | 274 |
 | 23 | [ChatGPT/ChatGPT Tasks/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/ChatGPT%20Tasks/prompt.txt) | ChatGPT | 12,365 | 208 |
 | 24 | [ChatGPT/Project/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/Project/prompt.txt) | ChatGPT | 12,211 | 173 |
@@ -186,9 +186,9 @@ pie title Top Categories by Characters
 | 30 | [ChatGPT/Custom GPT/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/Custom%20GPT/prompt.txt) | ChatGPT | 8,307 | 127 |
 | 31 | [ChatGPT/ChatGPT 4o with canvas/chat-prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/ChatGPT%204o%20with%20canvas/chat-prompt.txt) | ChatGPT | 6,714 | 118 |
 | 32 | [Visual Studio Code/GitHub Copilot/Chat/Extensions/vscode/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Visual%20Studio%20Code/GitHub%20Copilot/Chat/Extensions/vscode/prompt.txt) | Visual Studio Code | 6,306 | 160 |
-| 33 | [Grok/Fast/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Fast/prompt.txt) | Grok | 5,537 | 65 |
+| 33 | [Grok/Fast/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Fast/prompt.txt) | Grok | 5,537 | 65 |
 | 34 | [Grok/Grok 3/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Grok%203/prompt.txt) | Grok | 5,537 | 65 |
-| 35 | [Grok/Auto/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Auto/prompt.txt) | Grok | 5,488 | 65 |
+| 35 | [Grok/Auto/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Auto/prompt.txt) | Grok | 5,488 | 65 |
 | 36 | [ChatGPT/ChatGPT 4/second.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/ChatGPT%204/second.txt) | ChatGPT | 5,459 | 76 |
 | 37 | [Grok/Personas/Loyal Friend.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Personas/Loyal%20Friend.txt) | Grok | 5,147 | 53 |
 | 38 | [Visual Studio Code/Copilot Edits/Agent/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Visual%20Studio%20Code/Copilot%20Edits/Agent/prompt.txt) | Visual Studio Code | 4,971 | 75 |
@@ -202,7 +202,7 @@ pie title Top Categories by Characters
 | 46 | [Visual Studio Code/GitHub Copilot/Chat/Extensions/vscode/Commands/search.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Visual%20Studio%20Code/GitHub%20Copilot/Chat/Extensions/vscode/Commands/search.txt) | Visual Studio Code | 4,126 | 106 |
 | 47 | [Grok/Personas/Unhinged Comedian.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Personas/Unhinged%20Comedian.txt) | Grok | 4,097 | 49 |
 | 48 | [X/Grok 3/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/X/Grok%203/prompt.txt) | X | 3,941 | 40 |
-| 49 | [X/Fast/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/X/Fast/prompt.txt) | X | 3,911 | 40 |
+| 49 | [X/Fast/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/X/Fast/prompt.txt) | X | 3,911 | 40 |
 | 50 | [Gemini/Gemini 1.5 Pro.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Gemini/Gemini%201.5%20Pro.txt) | Gemini | 3,832 | 128 |
 | 51 | [ChatGPT/ChatGPT 4.1-mini/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/ChatGPT%204.1-mini/prompt.txt) | ChatGPT | 3,743 | 112 |
 | 52 | [Google Messages/Gemini.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Google%20Messages/Gemini.txt) | Google Messages | 3,321 | 123 |
