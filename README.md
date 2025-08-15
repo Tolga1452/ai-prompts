@@ -141,7 +141,6 @@ See [STATS.md](STATS.md) for prompt statistics.
 - **bolt.new:** [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
 - **ChatGPT**
   - **Chain-of-Thought (OpenAI o3):** [@btibor91](https://x.com/btibor91/status/1887762005181763888)
-  - **ChatGPT 5 Thinking:** [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts)
   - **ChatGPT o3:** [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - **Wamellow:** [wamellow.com](https://wamellow.com)
 - **Microsoft Copilot:** [wunderwuzzi23/scratch](https://github.com/wunderwuzzi23/scratch)
