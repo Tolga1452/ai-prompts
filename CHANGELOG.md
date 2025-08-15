@@ -1,6 +1,19 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# August 15, 2025
+
+## Repository Updates
+- Added STATS.md for prompt statistics.
+
+## Newly Added
+- ChatGPT
+  - ChatGPT 5 Thinking mini
+
+## Updated
+- ChatGPT
+  - ChatGPT 5 Thinking
+
 # August 14, 2025
 
 ## Newly Added

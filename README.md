@@ -4,6 +4,8 @@ A collection of original system prompts and tool data used for AI chatbots.
 
 See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
 
+See [STATS.md](STATS.md) for prompt statistics.
+
 > [!WARNING]
 > - Most of the prompts and tool data are extracted directly from the chatbots. They are not guaranteed to be fully accurate.
 > - Some prompts and tool data may be outdated.
@@ -35,7 +37,7 @@ See [CHANGELOG.md](CHANGELOG.md) for the latest updates.
   - ✨ [ChatGPT 5](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%205)
   - 🆕 [ChatGPT 5 Fast](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%205%20Fast)
   - 🆕 [ChatGPT 5 Thinking](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%205%20Thinking)
-  - 🆕 [ChatGPT 5 Thinking mini](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%205%20Thinking%20mini) **(Tool data only)**
+  - 🆕 [ChatGPT 5 Thinking mini](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%205%20Thinking%20mini)
   - 🪦 [ChatGPT o1](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%20o1)
   - 🪦 [ChatGPT o1-mini](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%20o1-mini)
   - [ChatGPT o3](https://github.com/Tolga1452/ai-prompts/tree/main/ChatGPT/ChatGPT%20o3)
