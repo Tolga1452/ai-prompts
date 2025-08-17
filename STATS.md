@@ -1,6 +1,6 @@
 # Prompt Stats
 
-**Generated:** 2025-08-17T20:32:39.527Z
+**Generated:** 2025-08-17T20:47:36.416Z
 
 ## Summary
 
@@ -89,8 +89,8 @@ pie title Top Categories by Characters
 **Top Prompts by Characters**
 
 ```text
-* ChatGPT/ChatGPT 5 Thinking/prompt.txt                        | ████████████████████████████████████████ 71,159 chars
-+ ChatGPT/ChatGPT 5 Thinking mini/prompt.txt                   | ███████████████████████████████████ 61,874 chars
+  ChatGPT/ChatGPT 5 Thinking/prompt.txt                        | ████████████████████████████████████████ 71,159 chars
+  ChatGPT/ChatGPT 5 Thinking mini/prompt.txt                   | ███████████████████████████████████ 61,874 chars
   v0/Project/prompt.txt                                        | █████████████████████████████████ 59,302 chars
   Claude/Claude Sonnet 4/prompt.txt                            | █████████████████████████████████ 58,930 chars
   v0/Chat/prompt.txt                                           | █████████████████████████████████ 57,846 chars
@@ -122,10 +122,10 @@ pie title Top Categories by Characters
 
 ```text
   Lovable/prompt.txt                                           | ████████████████████████████████████████ 1,186 lines
-* ChatGPT/ChatGPT 5 Thinking/prompt.txt                        | ███████████████████████████████████████ 1,159 lines
+  ChatGPT/ChatGPT 5 Thinking/prompt.txt                        | ███████████████████████████████████████ 1,159 lines
   v0/Project/prompt.txt                                        | ███████████████████████████████████████ 1,154 lines
   v0/Chat/prompt.txt                                           | ██████████████████████████████████████ 1,113 lines
-+ ChatGPT/ChatGPT 5 Thinking mini/prompt.txt                   | ███████████████████████████████████ 1,034 lines
+  ChatGPT/ChatGPT 5 Thinking mini/prompt.txt                   | ███████████████████████████████████ 1,034 lines
   Claude/Claude 3.5 Sonnet/prompt.txt                          | ██████████████████████ 651 lines
   Claude/Claude Sonnet 4/prompt.txt                            | ████████████████████ 606 lines
   ChatGPT/ChatGPT 5/prompt.txt                                 | ████████████████ 479 lines
@@ -154,8 +154,8 @@ pie title Top Categories by Characters
 
 | # | Prompt | Category | Characters | Lines |
 |---:|---|---|---:|---:|
-| 1 | [ChatGPT/ChatGPT 5 Thinking/prompt.txt ✨](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/ChatGPT%205%20Thinking/prompt.txt) | ChatGPT | 71,159 | 1,159 |
-| 2 | [ChatGPT/ChatGPT 5 Thinking mini/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/ChatGPT%205%20Thinking%20mini/prompt.txt) | ChatGPT | 61,874 | 1,034 |
+| 1 | [ChatGPT/ChatGPT 5 Thinking/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/ChatGPT%205%20Thinking/prompt.txt) | ChatGPT | 71,159 | 1,159 |
+| 2 | [ChatGPT/ChatGPT 5 Thinking mini/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/ChatGPT%205%20Thinking%20mini/prompt.txt) | ChatGPT | 61,874 | 1,034 |
 | 3 | [v0/Project/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/v0/Project/prompt.txt) | v0 | 59,302 | 1,154 |
 | 4 | [Claude/Claude Sonnet 4/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Claude/Claude%20Sonnet%204/prompt.txt) | Claude | 58,930 | 606 |
 | 5 | [v0/Chat/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/v0/Chat/prompt.txt) | v0 | 57,846 | 1,113 |
