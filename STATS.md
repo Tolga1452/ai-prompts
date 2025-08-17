@@ -1,6 +1,6 @@
 # Prompt Stats
 
-**Generated:** 2025-08-15T12:59:19.397Z
+**Generated:** 2025-08-17T20:30:17.467Z
 
 ## Summary
 
@@ -102,10 +102,10 @@ pie title Top Categories by Characters
   ChatGPT/Agent/prompt.txt                                     | ████████████████ 27,955 chars
   Gemini/Canvas.txt                                            | ███████████████ 26,270 chars
   ChatGPT/Chain-of-Thought/OpenAI o3/prompt.txt                | █████████████ 22,854 chars
-+ GitHub/Copilot/Home/prompt.txt                               | ████████████ 20,870 chars
+  GitHub/Copilot/Home/prompt.txt                               | ████████████ 20,870 chars
   ChatGPT/Study/prompt.txt                                     | ██████████ 16,951 chars
   Microsoft Copilot/prompt.txt                                 | █████████ 16,467 chars
-+ GitHub/Copilot/Spaces/prompt.txt                             | █████████ 16,076 chars
+  GitHub/Copilot/Spaces/prompt.txt                             | █████████ 16,076 chars
   Visual Studio Code/GitHub Copilot/Chat/Extensions/github.txt | █████████ 16,013 chars
   ChatGPT/GPT Builder/prompt.txt                               | ████████ 14,407 chars
   Grok/Expert/prompt.txt                                       | ████████ 13,753 chars
@@ -132,13 +132,13 @@ pie title Top Categories by Characters
   ChatGPT/ChatGPT 5 Fast/prompt.txt                            | ███████████████ 452 lines
   ChatGPT/Agent/prompt.txt                                     | ███████████████ 430 lines
   ChatGPT/ChatGPT o3/prompt.txt                                | ████████████ 368 lines
-+ GitHub/Copilot/Home/prompt.txt                               | ████████████ 362 lines
+  GitHub/Copilot/Home/prompt.txt                               | ████████████ 362 lines
   Gemini/Canvas.txt                                            | ████████████ 351 lines
   ChatGPT/Study/prompt.txt                                     | ██████████ 283 lines
   val town/Townie/prompt.txt                                   | █████████ 279 lines
   bolt.new/prompt.txt                                          | █████████ 274 lines
   ChatGPT/Chain-of-Thought/OpenAI o3/prompt.txt                | █████████ 266 lines
-+ GitHub/Copilot/Spaces/prompt.txt                             | ████████ 247 lines
+  GitHub/Copilot/Spaces/prompt.txt                             | ████████ 247 lines
   Visual Studio Code/GitHub Copilot/Chat/Extensions/github.txt | ████████ 244 lines
   ChatGPT/ChatGPT 4.1/prompt.txt                               | ████████ 237 lines
   ChatGPT/ChatGPT 4o/prompt.txt                                | ████████ 234 lines
@@ -167,10 +167,10 @@ pie title Top Categories by Characters
 | 11 | [ChatGPT/Agent/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/Agent/prompt.txt) | ChatGPT | 27,955 | 430 |
 | 12 | [Gemini/Canvas.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Gemini/Canvas.txt) | Gemini | 26,270 | 351 |
 | 13 | [ChatGPT/Chain-of-Thought/OpenAI o3/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/Chain-of-Thought/OpenAI%20o3/prompt.txt) | ChatGPT | 22,854 | 266 |
-| 14 | [GitHub/Copilot/Home/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/GitHub/Copilot/Home/prompt.txt) | GitHub | 20,870 | 362 |
+| 14 | [GitHub/Copilot/Home/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/GitHub/Copilot/Home/prompt.txt) | GitHub | 20,870 | 362 |
 | 15 | [ChatGPT/Study/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/Study/prompt.txt) | ChatGPT | 16,951 | 283 |
 | 16 | [Microsoft Copilot/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Microsoft%20Copilot/prompt.txt) | Microsoft Copilot | 16,467 | 130 |
-| 17 | [GitHub/Copilot/Spaces/prompt.txt 🆕](https://github.com/Tolga1452/ai-prompts/blob/main/GitHub/Copilot/Spaces/prompt.txt) | GitHub | 16,076 | 247 |
+| 17 | [GitHub/Copilot/Spaces/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/GitHub/Copilot/Spaces/prompt.txt) | GitHub | 16,076 | 247 |
 | 18 | [Visual Studio Code/GitHub Copilot/Chat/Extensions/github.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Visual%20Studio%20Code/GitHub%20Copilot/Chat/Extensions/github.txt) | Visual Studio Code | 16,013 | 244 |
 | 19 | [ChatGPT/GPT Builder/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/ChatGPT/GPT%20Builder/prompt.txt) | ChatGPT | 14,407 | 193 |
 | 20 | [Grok/Expert/prompt.txt](https://github.com/Tolga1452/ai-prompts/blob/main/Grok/Expert/prompt.txt) | Grok | 13,753 | 186 |
