@@ -1,0 +1,71 @@
+name: Label prompt PRs
+
+on:
+  pull_request_target:
+    types: [opened, reopened, synchronize, edited]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Analyze changed files
+        id: analyze
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const number = context.payload.pull_request.number;
+
+            const files = await github.paginate(
+              github.rest.pulls.listFiles,
+              { owner, repo, pull_number: number, per_page: 100 }
+            );
+
+            let addPrompt = false;
+            let updatePrompt = false;
+
+            for (const f of files) {
+              const name = f.filename.toLowerCase();
+              const status = f.status; // added | modified | removed | renamed | changed
+              const isTxt = name.endsWith('.txt');
+              const isTools = name.endsWith('/tools.json') || name === 'tools.json';
+              const isVars  = name.endsWith('/variables.json') || name === 'variables.json';
+
+              if (isTxt && status === 'added') addPrompt = true;
+
+              if ((isTxt && status !== 'added') || isTools || isVars) {
+                updatePrompt = true;
+              }
+            }
+
+            core.setOutput('add', String(addPrompt));
+            core.setOutput('update', String(updatePrompt));
+
+      - name: Add "add prompt" label
+        if: steps.analyze.outputs.add == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            await github.rest.issues.addLabels({
+              owner, repo,
+              issue_number: context.payload.pull_request.number,
+              labels: ['add prompt']
+            });
+
+      - name: Add "update prompt" label
+        if: steps.analyze.outputs.update == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            await github.rest.issues.addLabels({
+              owner, repo,
+              issue_number: context.payload.pull_request.number,
+              labels: ['update prompt']
+            });
