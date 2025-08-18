@@ -110,6 +110,14 @@ function runGit(args) {
   }
 }
 
+function runGitArgs(argsArray) {
+  try {
+    return cp.execFileSync('git', argsArray, { cwd: ROOT, stdio: ['ignore', 'pipe', 'ignore'] }).toString();
+  } catch {
+    return '';
+  }
+}
+
 function detectGitChanges() {
   // If not a git repo, nothing to mark
   const inside = runGit('rev-parse --is-inside-work-tree').trim();
@@ -147,27 +155,61 @@ function detectGitChanges() {
   if (!Number.isFinite(n) || n <= 0) n = 10;
   if (n > 100) n = 100; // safety cap
 
+  // Helper: determine if an author/committer is GitHub Actions
+  const isGitHubActionsActor = (name, email) => {
+    const nm = String(name || '').toLowerCase();
+    const em = String(email || '').toLowerCase();
+    // Common patterns for GH Actions bot commits
+    // e.g. "github-actions[bot]", "41898282+github-actions[bot]@users.noreply.github.com"
+    return nm.includes('github-actions') || em.includes('github-actions') || em === 'actions@github.com';
+  };
+
   const hasHead = !!runGit('rev-parse --verify HEAD');
   if (hasHead) {
-    const log = runGit(`log --name-status -n ${n} --pretty=format:`);
+    // We want to consider the last "n" non-GitHub-Actions commits. To do this robustly,
+    // fetch up to a larger window and filter client-side.
+    const scanLimit = Math.min(100, Math.max(n * 3, n)); // expand window to increase chance of hitting n real commits
+    // Use a clear per-commit marker and pack author/committer info in a single meta line.
+    const COMMIT_MARKER = '__COMMIT__';
+  const pretty = `${COMMIT_MARKER}%n%H%x00%an%x00%ae%x00%cn%x00%ce`;
+  const log = runGitArgs(['log', '--name-status', '-n', String(scanLimit), `--pretty=format:${pretty}`]);
     if (log) {
-      const lines = log.split(/\r?\n/).filter(Boolean);
-      for (const line of lines) {
-        if (!/^[A-Z]/.test(line)) continue;
-        const parts = line.split(/\t/);
-        const code = (parts[0] || '').trim();
-        if (!code) continue;
-        // For renames/copies (e.g., R100, C75), last field is the new path
-        const file = parts[parts.length - 1];
-        if (!file) continue;
-        const rel = toPosix(path.relative(ROOT, path.isAbsolute(file) ? file : path.join(ROOT, file)));
-        if (!rel.endsWith('.txt')) continue;
-        const c = code[0];
-        if (c === 'A') {
-          added.add(rel);
-          modified.delete(rel);
-        } else if (c === 'M' || c === 'R' || c === 'C') {
-          if (!added.has(rel)) modified.add(rel);
+      const lines = log.split(/\r?\n/);
+      let i = 0;
+      let countedCommits = 0;
+      while (i < lines.length && countedCommits < n) {
+        if (lines[i] !== COMMIT_MARKER) { i++; continue; }
+        const meta = (lines[i + 1] || '').split('\x00');
+        const [hash, aName, aEmail, cName, cEmail] = [meta[0], meta[1], meta[2], meta[3], meta[4]];
+        i += 2; // advance past marker and meta
+        const isActions = isGitHubActionsActor(aName, aEmail) || isGitHubActionsActor(cName, cEmail);
+        // Collect name-status lines until next commit marker or end
+        const filesInCommit = [];
+        while (i < lines.length && lines[i] !== COMMIT_MARKER) {
+          const ln = lines[i].trim();
+          if (ln) filesInCommit.push(ln);
+          i++;
+        }
+        // Skip commits authored/committed by GitHub Actions
+        if (isActions) continue;
+        countedCommits++;
+        for (const line of filesInCommit) {
+          if (!/^[A-Z]/.test(line)) continue;
+          const parts = line.split(/\t/);
+          const code = (parts[0] || '').trim();
+          if (!code) continue;
+          // For renames/copies (e.g., R100, C75), last field is the new path
+          const file = parts[parts.length - 1];
+          if (!file) continue;
+          const rel = toPosix(path.relative(ROOT, path.isAbsolute(file) ? file : path.join(ROOT, file)));
+          if (!rel.endsWith('.txt')) continue;
+          const c = code[0];
+          if (c === 'A') {
+            added.add(rel);
+            modified.delete(rel);
+          } else if (c === 'M' || c === 'R' || c === 'C') {
+            if (!added.has(rel)) modified.add(rel);
+          }
         }
       }
     }
