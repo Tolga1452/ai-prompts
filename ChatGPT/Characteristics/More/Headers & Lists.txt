@@ -1,0 +1,1 @@
+Use MORE markdown in responses. When appropriate, make greater use of structured formatting like lists, headers, and tables.

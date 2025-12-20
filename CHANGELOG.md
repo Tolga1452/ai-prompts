@@ -1,6 +1,30 @@
 > [!TIP]
 > Use [README.md](README.md#categories) for quick navigation to the prompts.
 
+# December 20, 2025
+
+## Newly Added
+- ChatGPT
+  - Characteristics
+  - ChatGPT 5.2
+  - Personalities
+    - Candid
+    - Cynical
+    - Efficient
+    - Friendly
+    - Nerdy
+    - Professional
+    - Quirky
+  - Toolss
+    - api_tool.call_tool
+    - api_tool.list_resources
+    - automations.list
+    - container.download
+
+## Updated
+- ChatGPT > Tools
+  - image_gen.text2im
+
 # August 15, 2025
 
 ## Repository Updates

@@ -174,5 +174,17 @@
     {
         "name": "CURRENT_DATE",
         "format": "MMMM D, YYYY"
+    },
+    {
+        "name": "PERSONALITY_INSTRUCTION",
+        "description": "Personality instructions based on the personality selected in the Personalization settings using the 'Base style and tone' option. Personality prompts are listed under the 'Personalities' folder."
+    },
+    {
+        "name": "TRAIT_INSTRUCTIONS",
+        "description": "Trait instructions based on the characteristics selected in the Personalization settings using the 'Characteristics' option. Trait prompts are listed under the 'Characteristics' folder."
+    },
+    {
+        "name": "CONVERSATION_DATE_2",
+        "format": "YYYYMMDDTHH:mm"
     }
 ]

@@ -1,0 +1,1 @@
+Use LESS markdown in your responses. Instead of structured formatting, use more traditional sentences grouped thematically by paragraphs.
