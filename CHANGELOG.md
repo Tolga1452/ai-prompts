@@ -5,6 +5,15 @@
 
 ## Newly Added
 - ChatGPT > GPT-5.5 Medium
+- Grok
+  - Grok Imagine > Project
+  - Tools
+
+## Updated
+- Grok
+  - Auto
+  - Expert
+  - Fast
 
 # December 20, 2025
 

@@ -1,0 +1,15 @@
+[
+    "web_search",
+    "search_images",
+    "view_image",
+    "imagine_text_to_image",
+    "imagine_image_to_image",
+    "imagine_reference_to_image",
+    "imagine_image_to_video",
+    "imagine_reference_to_video",
+    "imagine_create_asset",
+    "imagine_view_media",
+    "render_imagine_media",
+    "imagine_extract_subject",
+    "bash"
+]

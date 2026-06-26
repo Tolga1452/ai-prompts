@@ -1,0 +1,17 @@
+[
+    "open_page",
+    "open_page_with_find",
+    "view_image",
+    "web_search",
+    "x_keyword_search",
+    "x_semantic_search",
+    "x_user_search",
+    "x_thread_fetch",
+    "view_x_video",
+    "search_images",
+    "edit_memory",
+    "read_file",
+    "edit_file",
+    "write_file",
+    "bash"
+]

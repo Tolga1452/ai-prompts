@@ -1,0 +1,17 @@
+[
+    "bash",
+    "edit_file",
+    "edit_memory",
+    "open_page_with_find",
+    "open_page",
+    "read_file",
+    "search_images",
+    "view_image",
+    "view_x_video",
+    "web_search",
+    "write_file",
+    "x_keyword_search",
+    "x_semantic_search",
+    "x_thread_fetch",
+    "x_user_search"
+]

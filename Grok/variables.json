@@ -18,5 +18,27 @@
     {
         "name": "FULL_NAME",
         "description": "The full name of the user that is set in the Account settings."
+    },
+    {
+        "name": "X_HANDLE",
+        "description": "The X (Twitter) handle of the user."
+    },
+    {
+        "name": "SUBSCRIPTION_LEVEL",
+        "values": [
+            "SuperGrok"
+        ]
+    },
+    {
+        "name": "LOCATION",
+        "description": "The location of the user."
+    },
+    {
+        "name": "FULL_DATE_AND_TIME",
+        "format": "EEEE, MMMM d, yyyy hh:mm a z"
+    },
+    {
+        "name": "PROJECT_INSTRUCTIONS",
+        "description": "The project instructions set by user in the Project settings."
     }
 ]
