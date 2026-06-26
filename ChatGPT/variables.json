@@ -186,5 +186,25 @@
     {
         "name": "CONVERSATION_DATE_2",
         "format": "YYYYMMDDTHH:mm"
+    },
+    {
+        "name": "TOOL_NAME",
+        "description": "The name of the Connector/App."
+    },
+    {
+        "name": "TOOL_DESCRIPTION",
+        "description": "The description of the Connector/App."
+    },
+    {
+        "name": "EMAIL",
+        "format": "handle@domain.com"
+    },
+    {
+        "name": "EMAIL_HANDLE",
+        "description": "Handle of the user's email address."
+    },
+    {
+        "name": "CHATGPT_MEMORY",
+        "description": "Memory notes written by ChatGPT based on the user's past conversations. Doesn't have a specific format, but usually has lots of lists and bullet points."
     }
 ]
