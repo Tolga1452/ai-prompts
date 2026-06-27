@@ -7,7 +7,10 @@
 - ChatGPT > GPT-5.5 Medium
 - Grok
   - Grok Imagine > Project
-  - Tools
+  - Tools (15 added)
+- Claude
+  - Haiku 4.5
+  - Tools (22 added)
 
 ## Updated
 - Grok

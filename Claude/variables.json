@@ -10,5 +10,29 @@
     {
         "name": "LOCATION",
         "format": "City, State, Country Code"
+    },
+    {
+        "name": "APP_NAME",
+        "description": "The name of the connected MCP app."
+    },
+    {
+        "name": "APP_URL",
+        "description": "The URL of the connected MCP app."
+    },
+    {
+        "name": "FULL_NAME",
+        "description": "The full name set by the user in the General tab in the Settings."
+    },
+    {
+        "name": "NICKNAME",
+        "description": "The input given by the user to the 'What should Claude call you?' field in the General tab in the Settings."
+    },
+    {
+        "name": "USER_PREFERENCES_SUMMARIZED",
+        "description": "The input given by the user to the 'Instructions for Claude' field in the General tab in the Settings. Summarized by Claude."
+    },
+    {
+        "name": "INTEGER",
+        "format": "0"
     }
 ]
