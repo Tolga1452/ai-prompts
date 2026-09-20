@@ -1,0 +1,18 @@
+[
+    {
+        "name": "CWD",
+        "description": "The absolute path of the directory MiniMax Code was started in."
+    },
+    {
+        "name": "OS_BUILD",
+        "description": "The operating system build string of the machine, e.g. the Windows build number."
+    },
+    {
+        "name": "PWSH",
+        "description": "The PowerShell edition and version reported by the machine."
+    },
+    {
+        "name": "RUN_ID",
+        "description": "The identifier of the run, regenerated on every session."
+    }
+]
